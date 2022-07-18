@@ -58,6 +58,10 @@ section {
 }
 
 
+.filter-section .text {
+    margin-bottom: 1rem;
+}
+
 
 ::-webkit-scrollbar {
     width: 1em;
